@@ -62,7 +62,6 @@ Projeto desenvolvido como desafio no curso **LaunchBase** oferecida pela [Rocket
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Node.js][nodejs]
 - [Java Script][js]
 - [CSS][CSS]
 - [HTML][HTML]
