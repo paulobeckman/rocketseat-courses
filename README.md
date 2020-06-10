@@ -69,7 +69,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🚀 Como rodar este projeto
 
-Podemos considerar este projeto como sendo divido em três partes:
+Podemos considerar este projeto como tendo somente uma parte:
 1. Front End (todos os arquivos)
 
 💡 É possível rodar a aplicação Front End usando o live server do [Visual Studio Code][vscode] ou dando dois clicks no arquivo about.html.
