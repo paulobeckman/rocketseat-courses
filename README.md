@@ -50,9 +50,12 @@ Projeto desenvolvido como desafio no curso **LaunchBase** oferecida pela [Rocket
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="rocketseat-courses" title="#rocketseat-courses" src="./github-assets/web.svg" width="400px">
+	
+ <img alt="rocketseat-courses" title="#rocketseat-courses" src="./github-assets/projeto1.gif" width="600px">
 
-  <img alt="rocketseat-courses" title="#rocketseat-courses" src="./github-assets/sucesso-web.svg" width="400px">
+  <img alt="rocketseat-courses" title="#rocketseat-courses" src="./github-assets/paginas1.png" width="400px">
+
+  <img alt="rocketseat-courses" title="#rocketseat-courses" src="./github-assets/paginas2.png" width="400px">
 </p>
 
 ## 🛠 Tecnologias
