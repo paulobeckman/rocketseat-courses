@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="rocketseat-courses" title="#rocketseat-courses" src="./github-assets/banner.png" />
+    Rocketseat Courses
 </h1>
 
 <h4 align="center"> 
