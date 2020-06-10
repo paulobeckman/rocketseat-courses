@@ -51,7 +51,7 @@ Projeto desenvolvido como desafio no curso **LaunchBase** oferecida pela [Rocket
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
 	
- <img alt="rocketseat-courses" title="#rocketseat-courses" src="./github-assets/projeto2.gif" width="600px">
+ <img alt="rocketseat-courses" title="#rocketseat-courses" src="./github-assets/projeto2.gif" width="800px">
 
   <img alt="rocketseat-courses" title="#rocketseat-courses" src="./github-assets/paginas1.png" width="400px">
 
