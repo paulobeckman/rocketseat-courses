@@ -30,7 +30,7 @@
 
 ## 💻 Sobre o projeto
 
-Rocketseat Courses apresenta as informações de todos os cursos da [Rocketseat](rs), além de poder redirecionar todas as redes sociais e comunidade deles.
+Rocketseat Courses apresenta as informações de todos os cursos da [Rocketseat](rs), além de poder redirecionar para todas as redes sociais e comunidade da instituição.
 
 O usuário poderá ser redirecionado para:
 - mandar email à instituição
